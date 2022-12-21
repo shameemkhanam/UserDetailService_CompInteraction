@@ -1,0 +1,7 @@
+.container{
+  width: 820px;
+  margin: 30px auto;
+  padding: 10px 20px;
+  display: flex;
+  background-color: aliceblue;
+}
